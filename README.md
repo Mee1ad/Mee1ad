@@ -23,9 +23,7 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
   <img src="assets/tamoom/home.jpg" alt="Home" width="160" />
   <img src="assets/tamoom/project.jpg" alt="Project" width="160" />
   <img src="assets/tamoom/upcoming.jpg" alt="Upcoming" width="160" />
-  <img src="assets/tamoom/dark.jpg" alt="Dark mode" width="160" />
   <img src="assets/tamoom/quickfind.jpg" alt="Quick Find" width="160" />
-  <img src="assets/tamoom/logbook.jpg" alt="Logbook" width="160" />
 </p>
 - Mantar
     What it is: offline-first shared expenses on Android
