@@ -32,7 +32,13 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
     Stack: Flutter
     Play Store: https://play.google.com/store/apps/details?id=com.soheilravasani.mantar&hl=en
     One paragraph on the offline model in plain language
-    Screenshots: group list, add expense, balance view
+<p>
+  <img src="assets/mantar/homepage.png" alt="Homepage" width="160" />
+  <img src="assets/mantar/accounts.png" alt="Accounts" width="160" />
+  <img src="assets/mantar/categories-budget.png" alt="Categories and budget" width="160" />
+  <img src="assets/mantar/goals.png" alt="Goals" width="160" />
+  <img src="assets/mantar/split.png" alt="Split" width="160" />
+</p>
 - [NiliRazaghi](https://nilirazaghi.ir) — photography portfolio, performance and media
 
 ## Stack
