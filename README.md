@@ -18,7 +18,7 @@ Android productivity app. Things 3 as the reference point, built for daily tasks
 - **What I cared about:** structure, speed, visual hierarchy, gestures, empty states, backup
 - **Hard problem:** long lists still have to feel instant, including when the phone is offline
 - **Stack:** Flutter
-- **Live:** [tamoom.app](https://tamoom.app)
+- **Live:** [Tamoom.app](https://tamoom.app)
 - **Play Store:** [Tamoom](https://play.google.com/store/apps/details?id=com.tamoom&hl=en)
 
 <p>
