@@ -1,16 +1,22 @@
-## Hi there 👋
+# Soheil Ravasani
 
-<!--
-**Mee1ad/Mee1ad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior software engineer in Istanbul.
 
-Here are some ideas to get you started:
+I build production backends with Python, Django, and FastAPI. I also ship web apps in React and Android apps in Flutter. I care about reliable systems and about interfaces people can actually use.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Work
+- Londonist DMC — student and partner products, internal CRM, company site, Flutter apps, Docker, CI/CD, monitoring
+- AGTEQ — part-time remote backend work for an agriculture AI platform
+- Earlier — G Corp, then MehrTakhfif, Django services with PostgreSQL, Redis, Celery, and Elasticsearch
+
+## Products
+- [Tamoom](https://tamoom.app) — Android productivity app, strong focus on UI and daily workflow
+- Mantar — offline-first Android app for shared expenses
+- [NiliRazaghi](https://nilirazaghi.ir) — photography portfolio, performance and media
+
+## Stack
+Python, Django, FastAPI, PostgreSQL, Redis, Docker, React, Flutter
+
+## Links
+- LinkedIn: https://linkedin.com/in/soheil-ravasani
+- Email: soheilravasani@gmail.com
