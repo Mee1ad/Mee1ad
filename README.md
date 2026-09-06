@@ -10,14 +10,17 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
 - Earlier — G Corp, then MehrTakhfif, Django services with PostgreSQL, Redis, Celery, and Elasticsearch
 
 ## Products
-- Tamoom
-    What it is: Android productivity app, Things 3 as the reference point, built for daily tasks without noise
-    Who it is for: people who want a serious task app on Android
-    What I cared about: structure, speed, visual hierarchy, gestures, empty states, backup
-    Stack: Flutter
-    Live: https://tamoom.app
-    Play Store: https://play.google.com/store/apps/details?id=com.tamoom&hl=en
-    One paragraph on a hard problem: offline use, performance of lists, or navigation. Pick one that is true
+
+### Tamoom
+Android productivity app. Things 3 as the reference point, built for daily tasks without noise.
+
+- **Who it's for:** people who want a serious task app on Android
+- **What I cared about:** structure, speed, visual hierarchy, gestures, empty states, backup
+- **Hard problem:** long lists still have to feel instant, including when the phone is offline
+- **Stack:** Flutter
+- **Live:** [tamoom.app](https://tamoom.app)
+- **Play Store:** [Tamoom](https://play.google.com/store/apps/details?id=com.tamoom&hl=en)
+
 <p>
   <img src="assets/tamoom/today.jpg" alt="Today" width="160" />
   <img src="assets/tamoom/home.jpg" alt="Home" width="160" />
@@ -25,13 +28,16 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
   <img src="assets/tamoom/upcoming.jpg" alt="Upcoming" width="160" />
   <img src="assets/tamoom/quickfind.jpg" alt="Quick Find" width="160" />
 </p>
-- Mantar
-    What it is: offline-first shared expenses on Android
-    Who it is for: roommates, trips, couples, small groups
-    What I cared about: working with no network, clear split UI, trust in the numbers
-    Stack: Flutter
-    Play Store: https://play.google.com/store/apps/details?id=com.soheilravasani.mantar&hl=en
-    One paragraph on the offline model in plain language
+
+### Mantar
+Offline-first shared expenses on Android.
+
+- **Who it's for:** roommates, trips, couples, small groups
+- **What I cared about:** working with no network, clear split UI, trust in the numbers
+- **Hard problem:** every add, edit, and split has to work on the device first, then sync when there is a connection
+- **Stack:** Flutter
+- **Play Store:** [Mantar](https://play.google.com/store/apps/details?id=com.soheilravasani.mantar&hl=en)
+
 <p>
   <img src="assets/mantar/homepage.png" alt="Homepage" width="160" />
   <img src="assets/mantar/accounts.png" alt="Accounts" width="160" />
@@ -39,7 +45,9 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
   <img src="assets/mantar/goals.png" alt="Goals" width="160" />
   <img src="assets/mantar/split.png" alt="Split" width="160" />
 </p>
-- [NiliRazaghi](https://nilirazaghi.ir) — photography portfolio, performance and media
+
+### [NiliRazaghi](https://nilirazaghi.ir)
+Photography portfolio. Performance and media.
 
 ## Stack
 Python, Django, FastAPI, PostgreSQL, Redis, Docker, React, Flutter
