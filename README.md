@@ -18,7 +18,15 @@ I build production backends with Python, Django, and FastAPI. I also ship web ap
     Live: https://tamoom.app
     Play Store: https://play.google.com/store/apps/details?id=com.tamoom&hl=en
     One paragraph on a hard problem: offline use, performance of lists, or navigation. Pick one that is true
-    Screenshots: home, task detail, one polished secondary screen
+<p>
+  <img src="assets/tamoom/today.jpg" alt="Today" width="160" />
+  <img src="assets/tamoom/home.jpg" alt="Home" width="160" />
+  <img src="assets/tamoom/project.jpg" alt="Project" width="160" />
+  <img src="assets/tamoom/upcoming.jpg" alt="Upcoming" width="160" />
+  <img src="assets/tamoom/dark.jpg" alt="Dark mode" width="160" />
+  <img src="assets/tamoom/quickfind.jpg" alt="Quick Find" width="160" />
+  <img src="assets/tamoom/logbook.jpg" alt="Logbook" width="160" />
+</p>
 - Mantar
     What it is: offline-first shared expenses on Android
     Who it is for: roommates, trips, couples, small groups
